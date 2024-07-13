@@ -1,0 +1,2 @@
+# CSharp (C#) Port Forwarder
+aplikasi ini di buat untuk meneruskan port dari 1 host ke host lain, tujuan utama saya membuat aplikasi ini untuk mengkonfigurasi Router Virtual Cisco (CSR1000v) dengan terminal SSH di Smartphone (Termius), dengan cara memforward port Virtual Box yang telah di bridge ke interface Laptop / PC ke interface Tunnel Tailscale, Tailscale sendiri adalah VPN Tunneling untuk memforward port ke Jaringan Terisolasi
